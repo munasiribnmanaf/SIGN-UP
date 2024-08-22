@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-image: url(img/622.jpg);
+    
+   
+    
+}
+.main{
+    height: 400px;
+    width: 330px;
+    background-color:rgb(230, 227, 221);
+    border-radius: 7px;
+    box-shadow: 2px 3px 2px 4px rgb(14, 13, 13);
+}
+.r{
+    margin-left: 90px;
+
+
+}
+h5{
+    margin-left: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    margin-left: 60px;
+   
+  
+}
+input{
+    background-color:rgb(230, 227, 221);
+    margin-left: 60px; 
+    border: none;
+    border-bottom: 2PX solid;
+ 
+}
+button{
+    height: 40px;
+    width: 70px;
+    margin-left: 230px;
+    position: absolute ;
+    margin-top: -50px;
+    border-radius: 11px;
+    box-shadow: 3px 3px 2px 1px rgb(16, 16, 16);
+}
